@@ -1,12 +1,3 @@
----
-layout: post
-title: "Origami Systems"
-description: "Trying to change the perception of Solar Panels using Origami"
-categories: envision
-thumbnail: "thumbnail.jpg"
-year: 2022
----
-
 ### **Mentors**
 - Kshamaa Acharya
 - Saee Sholapurkar
@@ -32,8 +23,6 @@ In this age of advancement, humanity is trying to shrink every other object to
  the prospective ones while rejecting the others on the basis of our own 
  Criteria Of Selection.
 
-<img src="/Users/priyanshu/virtual-expo/assets/large-2.JPG" width="500" height="400">
-<br>
 ## **Criteria Of Selection**
 - It should be compact
 - Ease of Manufacturing
@@ -50,8 +39,6 @@ In this age of advancement, humanity is trying to shrink every other object to
 - Miura Ori Tessellation
 - Miura Ori (Sharp Angle) Tessellation
 
-**Image needed here**
-<br>
 ### **A.Rejected Models**
 - Iso-area flasher 
 - Herringbone Tessellation
@@ -67,9 +54,6 @@ failed one of the primary aims of this project, **"Cost-Effectiveness"**. Buildi
 specially manufactured solar panel systems of varying shapes and sizes. Due to the folding patterns' complexity 
 and the high-stress generation, while folding, this model was rejected.
 
-**Image needed here**
-<br>
-
 #### **2. Herringbone Tessellation**
 Another potential candidate for the model. This one was, however rejected 
 because of the complexity of the structure. Just like its counterpart Iso-Area 
@@ -78,9 +62,6 @@ achieve from a folding system of solar panels. More shadow area when light is
 thrown at it from a particular angle, hence making it not feasible to use at 
 certain angles.
 
-<img src="/Users/priyanshu/virtual-expo/assets/herringbone.jpg" width="500" height="400">
-<br>
-
 #### **3. Miura Ori Tessellation**
 Another suitable candidate, bearing much resemblance to our final model, the 
 Miura Ori Tessellation, followed almost all the criteria of requirement. 
@@ -88,20 +69,6 @@ However, this model is fatally rigged with structural flaws. While folding the
 given model, a sharp increase in stress was observed along the joints and the 
 point of connections. This model is not viable for longevity as it can suffer 
 from a mechanical faliure at any point in time.
-
-<img src="/Users/priyanshu/virtual-expo/assets/Miura Normal.jpg" width="500" height="400">
-<br>
-
->**A Miura Ori Tessellation**
-
-<img src="/Users/priyanshu/virtual-expo/assets/Miura_normal.jpg" width="500" height="400">
-<br>
-
->**Pattern Folding of Miura Ori Tessellation**
-<br>
-
-**Gif of stress strain variation of A Miura Ori Tessellation**
-<br>
 
 ### **B. Preferrd Model**
 
@@ -113,21 +80,6 @@ almost negligible amount of stress while folding. A 24 by 12 tessellation can
 generate nearly 24 times the power generated in its folded state. This makes it 
 the perfect candidate for our objective.
 
-
-<img src="/Users/priyanshu/virtual-expo/assets/Sharp angle Miura.jpg" width="500" height="400">
-<br>
-
->**A Miura Ori (Sharp Angle) Tessellation**
-
-<img src="/Users/priyanshu/virtual-expo/assets/Miura_Sharp_Angle.jpg" width="500" height="400">
-
-<br>
-
->**Pattern Folding of Miura Ori (Sharp Angle) Tessellation**
-
-<br>
-
-**Gif of stress strain variation of A Miura Ori (Sharp Angle) Tessellation**
 
 ## **Conclusion**
 
