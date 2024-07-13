@@ -70,7 +70,7 @@ given model, a sharp increase in stress was observed along the joints and the
 point of connections. This model is not viable for longevity as it can suffer 
 from a mechanical faliure at any point in time.
 
-### **B. Preferrd Model**
+### **B. Preferred Model**
 
 **Miura Ori (Sharp Angle) Tessellation**
 Lastly, The preferred Model, Miura Ori (Sharp Angle) Tessellation, is the model 
